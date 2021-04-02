@@ -1,0 +1,4 @@
+﻿  Jump.cpp
+C:\Mydata\Code\cProgram\WX-Jump\WX-Jump\Jump.cpp(9,61): error C2365: “time”: 重定义；以前的定义是“函数”
+C:\Windows Kits\10\Include\10.0.19041.0\ucrt\time.h(518): message : 参见“time”的声明
+C:\Mydata\Code\cProgram\WX-Jump\WX-Jump\Jump.cpp(58,8): error C2659: “=”: 作为左操作数
